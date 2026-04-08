@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Streamlit cache
+.streamlit/cache/
+
+# Output files
+*.xlsx
+*.png
+*.csv
+
+# Mac
+.DS_Store
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Pybaseball cache
+pybaseball_cache/
