@@ -103,4 +103,4 @@ All stats via [Baseball Reference](https://www.baseball-reference.com/) through 
 
 ## Author
 
-Built by [your name] · [your LinkedIn or Twitter]
+Built by Luis Gomez
